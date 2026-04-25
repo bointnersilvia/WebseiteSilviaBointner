@@ -23,7 +23,7 @@ export default function ImpressumPage() {
               <section className="text-center">
                 <h2 className="text-2xl font-semibold mb-4">Kontakt</h2>
                 <p>Telefon: +43 664 56 89 388</p>
-                <p>E-Mail: kontakt@silviabointner.at</p>
+                <p>E-Mail: kontakt@silviabointner.com</p>
               </section>
 
               <section className="text-center">
