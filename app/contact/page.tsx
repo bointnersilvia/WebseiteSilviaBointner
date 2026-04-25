@@ -40,7 +40,7 @@ export default function ContactPage() {
             <Mail className="w-8 h-8 text-primary mx-auto mb-4" />
             <h3 className="font-semibold mb-2">E-Mail</h3>
             <CopyToClipboard 
-              text="kontakt@silviabointner.at" 
+              text="kontakt@silviabointner.com" 
               className="text-muted-foreground hover:text-primary transition-colors"
             />
           </Card>
